@@ -2,7 +2,7 @@
 
 Welcome to **The Billion Dollar Company**, where we build modern web & mobile applications with cutting-edge technologies.
 
-![Showreel](https://github.com/The-Billion-Dollar-Company/demo-repository/blob/main/Showreel_-Mobile-screens-%5Bremix%5D.gif?raw=true)
+![Showreel](https://github.com/The-Billion-Dollar-Company/demo-repository/blob/main/Showreel_-Mobile-screens-%5Bremix%5D.gif)
 
 ### 🧩 Our Mission
 Deliver innovative, scalable, and efficient software solutions for businesses and campuses.
